@@ -9,7 +9,6 @@ public class Album {
     private Artist artist;
 
     public Album(){
-
     }
     public Album(String title,Artist artist){
         this.title = title;
